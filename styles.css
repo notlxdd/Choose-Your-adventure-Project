@@ -1,0 +1,152 @@
+body{
+    background-color:black;
+    
+}
+.title{
+    color: white;
+    display: flex;
+    justify-content: center;
+    font-family: 'VT323', monospace;
+    
+}
+.start{
+  	color: white;
+    display: flex;
+    justify-content: center;
+    font-family: 'VT323', monospace;
+}
+.intro{
+    color: white;
+    display: flex;
+    justify-content: center;
+    font-family: 'VT323', monospace;
+    font-size:20px;
+}
+.character-choosing{
+    color: white;
+    display: flex;
+    justify-content: center;
+    font-family: 'VT323', monospace;
+    font-size:20px;
+}
+.castle{
+  display:flex;
+  justify-content: center;
+}
+#cauw {
+    font-size: 30px;
+}
+#alusni {
+    font-size: 30px;
+}
+#parry {
+    font-size: 30px;
+}
+.choose1{
+        color: white;
+    display: flex;
+    justify-content: center;
+    font-family: 'VT323', monospace;
+    font-size:20px;
+}
+#1{
+    font-size: 15px;
+}
+#2{
+    font-size:15px;
+}
+.option1{
+    color: white;
+    display: flex;
+    justify-content: center;
+    font-family: 'VT323', monospace;
+    font-size:20px;
+}
+.option2{
+    color: white;
+    display: flex;
+    justify-content: center;
+    font-family: 'VT323', monospace;
+    font-size:20px;
+}
+.option1-1{
+    color: white;
+    display: flex;
+    justify-content: center;
+    font-family: 'VT323', monospace;
+    font-size:20px;
+}
+.option1-2{
+    color: white;
+    display: flex;
+    justify-content: center;
+    font-family: 'VT323', monospace;
+    font-size:20px;
+}
+.option2-1 {
+    color: white;
+    display: flex;
+    justify-content: center;
+    font-family: 'VT323', monospace;
+    font-size:20px;
+}
+.option2-2 {
+color: white;
+    display: flex;
+    justify-content: center;
+    font-family: 'VT323', monospace;
+    font-size:20px;
+}
+#youdied {
+    color: red;
+}
+#SE {
+    color: #ffd700;
+    text-decoration: none;
+}
+#a1 {
+    color: black;
+    font-family: 'VT323', monospace;
+    font-size:15px;
+    margin-top: 30px;
+    width: 120px;
+    height: 20px;
+}
+#a2 {
+    color: black;
+    font-family: 'VT323', monospace;
+    font-size: 15px;
+   margin-top: 30px;
+    width: 120px;
+    height: 20px;
+}
+.button1{
+    display: flex;
+    justify-content: center;
+}
+.button2{
+    display: flex;
+    justify-content: center;
+}
+.bad-ending{
+    color: white;
+    display: flex;
+    justify-content: center;
+    font-family: 'VT323', monospace;
+    font-size:20px;
+}
+.good-ending{
+    color: white;
+    display: flex;
+    justify-content: center;
+    font-family: 'VT323', monospace;
+    font-size:20px;
+}
+#gc{
+    
+    width: 100%;
+    height: 100px;
+}
+a {
+    text-decoration: none;
+}
